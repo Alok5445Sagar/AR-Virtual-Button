@@ -215,7 +215,3 @@ git clone https://github.com/Alok5445Sagar/AR-Virtual-Button.git
 # 👨‍💻 Author
 
 ## Alok Sagar
-
-
-
-This project is open-source and available under the MIT License.
